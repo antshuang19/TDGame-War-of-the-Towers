@@ -1,0 +1,5 @@
+Basic Map,img/map.jpeg,img/img.txt
+Remake Map,img/map1.jpeg,img/img1.txt
+
+testing,img/map.jpeg,img/img.txt
+testing2,img/map1.jpeg,img/img1.txt
