@@ -1,4 +1,4 @@
-# Tower Defense Game - Project2
+# TDGame: War of the Towers
 
 ## Overview
 
