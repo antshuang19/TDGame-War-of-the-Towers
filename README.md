@@ -68,4 +68,4 @@ To build and run the game, you need the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Project2.git (https://github.com/antshuang19/Tower-Defense-Game.git)
+   [git clone https://github.com/your-username/Project2.git (https://github.com/antshuang19/Tower-Defense-Game.git)](https://github.com/antshuang19/TDGame-War-of-the-Towers.git)
